@@ -1,6 +1,6 @@
-# Fatima-Scholarship-2024
+# Fatima-Fellowship-2024
 
-Collab Link : [https://colab.research.google.com/drive/1gBTKYxCA9sRpmzZEZOTgii7uXvdzr-b4#scrollTo=kpInVUMLyJ24]
+**Collab Link** : [https://colab.research.google.com/drive/1gBTKYxCA9sRpmzZEZOTgii7uXvdzr-b4#scrollTo=kpInVUMLyJ24]
 
 **Write up**:
 * Explain what finetuning strategy you used and why
@@ -28,4 +28,4 @@ Solution: আমরা একটি সহজ উত্তর পাই $f(x) = 
 
 We can see without finetuning the model returns the prompt. But with finetuning model generates some response . Although the response is not correct, but model is trained only for 1 epoch. With increased epoch it will achieve better performance. 
 
-**Link to the model on Hugging Face Hub:** [LINK HERE]
+**Link to the model on Hugging Face Hub:** [https://huggingface.co/Asib27/Deep-seek-math-7b-bangla]
