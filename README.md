@@ -1,4 +1,7 @@
 # Fatima-Scholarship-2024
+
+Collab Link : [https://colab.research.google.com/drive/1gBTKYxCA9sRpmzZEZOTgii7uXvdzr-b4#scrollTo=kpInVUMLyJ24]
+
 **Write up**:
 * Explain what finetuning strategy you used and why
 
